@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to work with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Isabelle Hoxha, and I am currently a PhD student at the University of Paris-Saclay, France (don't get excited, the lab I work in is in fact located an hour away from Paris in public transport). 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My PhD topic is "Neurocognitive mechanisms of perceptual anticipation in decision-making". I am interested in studying human brain signals, using EEG, related to anticipatory processes, as well as building theories on the emergence of anticipation and its behavioral consequences. In summary, my research is both empirical and theoretical.
 
-What else do you need?
+Scientific outreach is extremely important to me. I took part in particular in the French edition of the 3-minute thesis contest, and made it to the national finals. You can see my presentation here. Thanks to this experience, I have been invited to talk about my research in Spanish at Radio France International, and am excited for future communication opportunities. If you have an outreach project, don't hesitate to reach out.
 
-### My story
+You can find a more detailed CV here (in English) or here (in French)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Key words: decision-making, anticipation, signal processing, EEG, computational neuroscience
