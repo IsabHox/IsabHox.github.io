@@ -5,6 +5,9 @@ subtitle: In Paris, July 8th-13th
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [conference, meet me, FENS, neuroscience, poster]
+cover-img: /assets/img/Join-me-at-FENS-2022-1200x630-Twitter-FB.png
+thumbnail-img: /assets/img/Join-me-at-FENS-2022-1200x630-Twitter-FB.png
+share-img: /assets/img/Join-me-at-FENS-2022-1200x630-Twitter-FB.png
 comments: true
 ---
 
