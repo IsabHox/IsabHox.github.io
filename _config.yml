@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "isabelle.hoxha@universite-paris-saclay.fr"
+  email: "isabelle.hoxha@ens.psl.eu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: IsabHox
@@ -48,7 +48,7 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: isabelle-hoxha
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -61,8 +61,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0003-4885-5473
+  google-scholar: https://scholar.google.com/citations?user=WCb3m7UAAAAJ&hl=fr
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -77,7 +77,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
